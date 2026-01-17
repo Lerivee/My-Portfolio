@@ -31,12 +31,13 @@ const featuredProjects = [
     github: "https://github.com/Lerivee/FocusFlow-App",
   },
   {
-    title: "DevPortfolio CMS",
+    title: "AI Study Assistant",
     description:
-      "Headless CMS specifically designed for developers to manage and showcase their portfolio content easily.",
-    tech: ["Next.js", "MongoDB", "REST API", "Tailwind CSS"],
-    github: "https://github.com/Lerivee/Freelance-Hub",
+      "An intelligent study companion that generates quizzes, summarizes notes, and creates flashcards using AI.",
+    tech: ["Next.js", "OpenAI API", "MongoDB", "TypeScript"],
+    github: "https://github.com/Lerivee/AI-Powered-Study-App",
     demo: "https://demo.com",
+    category: "AI",
   },
 ]
 
