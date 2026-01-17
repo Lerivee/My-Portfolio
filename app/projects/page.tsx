@@ -34,6 +34,32 @@ const allProjects = [
     category: "Web",
   },
   {
+    title: "CredentialChain",
+    description:
+      "A student-centered learning platform with real-time collaboration, course management, and progress tracking features.",
+    tech: ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/Lerivee/CredentialChain",
+    demo: "https://demo.com",
+    category: "Blockchain",
+  },
+  {
+     title: "Jovalyn Cakes N More",
+    description:
+      "A cake website where you get delightful and unforgettable baked goods tailored to your taste.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/Lerivee/JovalynCakesNMore",
+    demo: "https://demo.com",
+    category: "Web",
+  },
+  {
+    title: "FocusFlow App",
+    description:
+      "Project management tool with drag-and-drop kanban boards, team collaboration, and automated workflows.",
+    tech: ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/Lerivee/FocusFlow-App",
+    category: "Web",
+  },
+  {
     title: "DevPortfolio CMS",
     description:
       "Headless CMS specifically designed for developers to manage and showcase their portfolio content easily.",
@@ -47,7 +73,7 @@ const allProjects = [
     description:
       "An intelligent study companion that generates quizzes, summarizes notes, and creates flashcards using AI.",
     tech: ["Next.js", "OpenAI API", "MongoDB", "TypeScript"],
-    github: "https://github.com",
+    github: "https://github.com/Lerivee/AI-Powered-Study-App",
     demo: "https://demo.com",
     category: "AI",
   },

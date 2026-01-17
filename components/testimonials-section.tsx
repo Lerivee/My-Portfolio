@@ -10,7 +10,7 @@ const testimonials = [
     quote:
       "Valerie delivered exceptional work on our platform. Her attention to detail and understanding of user experience made a significant impact on our product.",
     name: "David Chen",
-    role: "Tech Lead, StartupX",
+    role: "Tech Lead",
   },
   {
     quote:

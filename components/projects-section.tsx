@@ -8,34 +8,34 @@ import Link from "next/link"
 
 const featuredProjects = [
   {
-    title: "EduConnect Platform",
+    title: "CredentialChain",
     description:
       "A student-centered learning platform with real-time collaboration, course management, and progress tracking features.",
     tech: ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
-    github: "https://github.com",
+    github: "https://github.com/Lerivee/CredentialChain",
     demo: "https://demo.com",
   },
   {
-    title: "SmartBudget App",
+     title: "Jovalyn Cakes N More",
     description:
-      "Personal finance tracker with AI-powered insights, expense categorization, and visual analytics dashboard.",
-    tech: ["React", "Spring Boot", "PostgreSQL", "Chart.js"],
-    github: "https://github.com",
+      "A cake website where you get delightful and unforgettable baked goods tailored to your taste.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/Lerivee/JovalynCakesNMore",
     demo: "https://demo.com",
   },
   {
-    title: "TaskFlow Manager",
+    title: "FocusFlow App",
     description:
       "Project management tool with drag-and-drop kanban boards, team collaboration, and automated workflows.",
-    tech: ["Next.js", "Prisma", "PostgreSQL", "Framer Motion"],
-    github: "https://github.com",
+    tech: ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/Lerivee/FocusFlow-App",
   },
   {
     title: "DevPortfolio CMS",
     description:
       "Headless CMS specifically designed for developers to manage and showcase their portfolio content easily.",
     tech: ["Next.js", "MongoDB", "REST API", "Tailwind CSS"],
-    github: "https://github.com",
+    github: "https://github.com/Lerivee/Freelance-Hub",
     demo: "https://demo.com",
   },
 ]
