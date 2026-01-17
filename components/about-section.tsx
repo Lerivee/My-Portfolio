@@ -23,7 +23,7 @@ export function AboutSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/30 to-accent/30 rounded-3xl blur-2xl" />
               <div className="relative w-full h-full rounded-3xl border border-white/10 overflow-hidden bg-card">
                 <img
-                  src="/image1.jpeg"
+                  src="/valerie.png"
                   alt="Valerie Onoja Amarachi"
                   className="w-full h-full object-cover"
                 />
