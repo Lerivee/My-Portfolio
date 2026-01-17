@@ -9,19 +9,19 @@ const testimonials = [
   {
     quote:
       "Valerie delivered exceptional work on our platform. Her attention to detail and understanding of user experience made a significant impact on our product.",
-    name: "David Chen",
+    name: "Dzarma Samuel",
     role: "Tech Lead",
   },
   {
     quote:
       "Working with Valerie was a great experience. She communicates clearly, meets deadlines, and writes clean, maintainable code.",
-    name: "Sarah Johnson",
-    role: "Project Manager",
+    name: "Deborah Iwuh",
+    role: "Backend Developer",
   },
   {
     quote:
       "Her ability to quickly grasp complex requirements and translate them into elegant solutions is impressive. Highly recommend!",
-    name: "Michael Okonkwo",
+    name: "Lucy Ihunweze",
     role: "Software Engineer",
   },
 ]
